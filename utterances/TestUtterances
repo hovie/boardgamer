@@ -1,0 +1,28 @@
+GetRandomGame a {GAME}
+GetRandomGame a {GAME} to play
+GetRandomGame a {PlayTime} {GAME}
+GetRandomGame a {PlayTime} {GAME} to play
+GetRandomGame a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame a {NumPlayers} player {GAME}
+GetRandomGame a {NumPlayers} player {GAME} to play
+GetRandomGame a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame a {GAME} for {NumPlayers} players
+GetRandomGame a {GAME} for {NumPlayers}
+SetName my {USERNAME} is {Name}
+SetName set {USERNAME} {Name}
+SetName {USERNAME} is {Name}
+SpellName spell my {USERNAME}
+SpellName spell {USERNAME}
+SayName what is my {USERNAME}
+SayName say my {USERNAME}
+SayName what's my {USERNAME}
+CountGames collection size
+GetGameInfo {Query}
+GetNumPlayers {Query} players
+GetGameMechanics {Query} mechanics
+GetGameCategories {Query} categories
+GetGameRank {Query} rank
+GetGameDesigner {Query} designer
+GetGameDescription {Query} description

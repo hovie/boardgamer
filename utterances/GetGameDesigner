@@ -1,0 +1,9 @@
+GetGameDesigner who designed {Query}
+GetGameDesigner {Query} designer
+GetGameDesigner {Query} designers
+GetGameDesigner designer for {Query}
+GetGameDesigner designers for {Query}
+GetGameDesigner who is the designer for {Query}
+GetGameDesigner who is the designer of {Query}
+GetGameDesigner who are the designers for {Query}
+GetGameDesigner who are the designers of {Query}

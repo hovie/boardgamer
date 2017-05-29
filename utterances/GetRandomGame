@@ -1,0 +1,147 @@
+GetRandomGame a {GAME}
+GetRandomGame a {GAME} to play
+GetRandomGame a {PlayTime} {GAME}
+GetRandomGame a {PlayTime} {GAME} to play
+GetRandomGame a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame a {NumPlayers} player {GAME}
+GetRandomGame a {NumPlayers} player {GAME} to play
+GetRandomGame a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame a {GAME} for {NumPlayers} players
+GetRandomGame a {GAME} for {NumPlayers}
+GetRandomGame choose a {GAME}
+GetRandomGame choose a {GAME} to play
+GetRandomGame choose a {PlayTime} {GAME}
+GetRandomGame choose a {PlayTime} {GAME} to play
+GetRandomGame choose a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame choose a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame choose a {NumPlayers} player {GAME}
+GetRandomGame choose a {NumPlayers} player {GAME} to play
+GetRandomGame choose a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame choose a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame choose a {GAME} for {NumPlayers} players
+GetRandomGame choose a {GAME} for {NumPlayers}
+GetRandomGame select a {GAME}
+GetRandomGame select a {GAME} to play
+GetRandomGame select a {PlayTime} {GAME}
+GetRandomGame select a {PlayTime} {GAME} to play
+GetRandomGame select a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame select a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame select a {NumPlayers} player {GAME}
+GetRandomGame select a {NumPlayers} player {GAME} to play
+GetRandomGame select a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame select a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame select a {GAME} for {NumPlayers} players
+GetRandomGame select a {GAME} for {NumPlayers}
+GetRandomGame pick a {GAME}
+GetRandomGame pick a {GAME} to play
+GetRandomGame pick a {PlayTime} {GAME}
+GetRandomGame pick a {PlayTime} {GAME} to play
+GetRandomGame pick a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame pick a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame pick a {NumPlayers} player {GAME}
+GetRandomGame pick a {NumPlayers} player {GAME} to play
+GetRandomGame pick a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame pick a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame pick a {GAME} for {NumPlayers} players
+GetRandomGame pick a {GAME} for {NumPlayers}
+GetRandomGame find a {GAME}
+GetRandomGame find a {GAME} to play
+GetRandomGame find a {PlayTime} {GAME}
+GetRandomGame find a {PlayTime} {GAME} to play
+GetRandomGame find a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame find a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame find a {NumPlayers} player {GAME}
+GetRandomGame find a {NumPlayers} player {GAME} to play
+GetRandomGame find a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame find a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame find a {GAME} for {NumPlayers} players
+GetRandomGame find a {GAME} for {NumPlayers}
+GetRandomGame get a {GAME}
+GetRandomGame get a {GAME} to play
+GetRandomGame get a {PlayTime} {GAME}
+GetRandomGame get a {PlayTime} {GAME} to play
+GetRandomGame get a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame get a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame get a {NumPlayers} player {GAME}
+GetRandomGame get a {NumPlayers} player {GAME} to play
+GetRandomGame get a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame get a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame get a {GAME} for {NumPlayers} players
+GetRandomGame get a {GAME} for {NumPlayers}
+GetRandomGame fetch a {GAME}
+GetRandomGame fetch a {GAME} to play
+GetRandomGame fetch a {PlayTime} {GAME}
+GetRandomGame fetch a {PlayTime} {GAME} to play
+GetRandomGame fetch a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame fetch a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame fetch a {NumPlayers} player {GAME}
+GetRandomGame fetch a {NumPlayers} player {GAME} to play
+GetRandomGame fetch a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame fetch a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame fetch a {GAME} for {NumPlayers} players
+GetRandomGame fetch a {GAME} for {NumPlayers}
+GetRandomGame recommend a {GAME}
+GetRandomGame recommend a {GAME} to play
+GetRandomGame recommend a {PlayTime} {GAME}
+GetRandomGame recommend a {PlayTime} {GAME} to play
+GetRandomGame recommend a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame recommend a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame recommend a {NumPlayers} player {GAME}
+GetRandomGame recommend a {NumPlayers} player {GAME} to play
+GetRandomGame recommend a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame recommend a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame recommend a {GAME} for {NumPlayers} players
+GetRandomGame recommend a {GAME} for {NumPlayers}
+GetRandomGame suggest a {GAME}
+GetRandomGame suggest a {GAME} to play
+GetRandomGame suggest a {PlayTime} {GAME}
+GetRandomGame suggest a {PlayTime} {GAME} to play
+GetRandomGame suggest a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame suggest a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame suggest a {NumPlayers} player {GAME}
+GetRandomGame suggest a {NumPlayers} player {GAME} to play
+GetRandomGame suggest a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame suggest a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame suggest a {GAME} for {NumPlayers} players
+GetRandomGame suggest a {GAME} for {NumPlayers}
+GetRandomGame propose a {GAME}
+GetRandomGame propose a {GAME} to play
+GetRandomGame propose a {PlayTime} {GAME}
+GetRandomGame propose a {PlayTime} {GAME} to play
+GetRandomGame propose a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame propose a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame propose a {NumPlayers} player {GAME}
+GetRandomGame propose a {NumPlayers} player {GAME} to play
+GetRandomGame propose a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame propose a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame propose a {GAME} for {NumPlayers} players
+GetRandomGame propose a {GAME} for {NumPlayers}
+GetRandomGame nominate a {GAME}
+GetRandomGame nominate a {GAME} to play
+GetRandomGame nominate a {PlayTime} {GAME}
+GetRandomGame nominate a {PlayTime} {GAME} to play
+GetRandomGame nominate a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame nominate a {PlayTime} {GAME} for {NumPlayers} players
+GetRandomGame nominate a {NumPlayers} player {GAME}
+GetRandomGame nominate a {NumPlayers} player {GAME} to play
+GetRandomGame nominate a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame nominate a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame nominate a {GAME} for {NumPlayers} players
+GetRandomGame nominate a {GAME} for {NumPlayers}
+GetRandomGame let's play a {GAME}
+GetRandomGame let's play a {GAME} for {NumPlayers}
+GetRandomGame let's play a {GAME} for {NumPlayers} players
+GetRandomGame let's play a {PlayTime} {GAME} for {NumPlayers}
+GetRandomGame let's play a {PlayTime} {GAME}
+GetRandomGame let's play a {NumPlayers} player {GAME}
+GetRandomGame let's play a {PlayTime} {NumPlayers} player {GAME}
+GetRandomGame let's play a {NumPlayers} {PlayTime} player {GAME}
+GetRandomGame what {GAME} should we play
+GetRandomGame what {NumPlayers} player {GAME} should we play
+GetRandomGame what {GAME} we should play
+GetRandomGame what {NumPlayers} player {GAME} we should play
+GetRandomGame what should we play
+GetRandomGame what we should play
+GetRandomGame what to play
