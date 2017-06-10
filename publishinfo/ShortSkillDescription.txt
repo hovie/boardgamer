@@ -1,0 +1,1 @@
+Get board game information from BoardGameGeek.com, including board game ranks, number of players, playing time, and mechanics, and more!

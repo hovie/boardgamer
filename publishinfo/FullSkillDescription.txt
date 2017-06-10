@@ -1,9 +1,3 @@
-# boardgamer
-
-Board Gamer is an Alexa Skill that enables you ask questions about board games using only your voice.
-Special thanks to the developers and BoardGameGeek.com for the BGG API, and the [lcosmin](https://github.com/lcosmin) for the [boardgamegeek](https://github.com/lcosmin/boardgamegeek) API.
-
-From the Full Skill Description:
 You can use Board Gamer to ask for board game information sourced from BoardGameGeek.com.
 
 You can ask for board game descriptions and stats, such as playing time, number of players, mechanics, etc.
